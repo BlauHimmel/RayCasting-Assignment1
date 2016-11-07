@@ -1,0 +1,1 @@
+RayCasting.exe -input scene1_05.txt -size 200 200 -output output1_05.tga -depth 14.5 19.5 depth1_05.tga
